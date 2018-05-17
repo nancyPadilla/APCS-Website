@@ -1,0 +1,53 @@
+#wrapperDiv {background-color: #b1e5f2;
+height: 800px;
+width: 900px;
+margin: auto;
+margin-top: 15px;
+border: solid black 2px;
+
+}
+#headerDiv {background-color: #d2ecfe;
+height: 50px;
+width: 50pxpx;
+margin: auto;
+margin-top: 30px;
+}
+p.title {text-align: center;
+font-weight: bold;
+font-size:35px
+}
+.buttDiv {background-color: white;
+height:40px;
+width:100px;
+border: solid black 1px;
+float: left;
+margin-left: 45px;
+margin-top: 5px;
+border-radius: 10px;
+text-align: center;
+font-weight: bold;
+font-size: 20px;
+}
+#navDiv {background-color:#fad1f2;
+height: 50px;
+width: 50pxpx;
+margin: auto;
+margin-top: 30px;
+}
+p.body {position:static; 
+left:30px; 
+bottom: -30px;
+text-align: center;	
+color: black;
+width:200;
+height:50;
+color: black;
+}
+img:le_chispe.png {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+p.bear {text-align:left;}
+
